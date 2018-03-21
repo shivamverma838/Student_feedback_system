@@ -1,0 +1,122 @@
+	body{
+		background-color: #4f9aa2;
+	}
+	.title
+	{
+		background-color:#108e93; 
+		position:fixed;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		height:64px;
+		
+
+	}
+	#lgform{
+		display: flex;
+		flex-direction: column;
+		background-color: white;
+	    padding: 5px;
+		width: 600px;
+		margin: 0 auto;
+		left: 0px;
+		top: 64px;
+		position: absolute;
+		margin-left:400px;
+		margin-top: 75px;
+		text-align: center;
+		
+
+	}
+	.title_name
+	{
+		font-size: 30px;
+		margin-left: 72px;
+		padding-top: 10px;
+	}
+	.logout
+    {
+     background-color:aliceblue;
+     position: absolute;
+     right: 20px;
+     top: 10px;
+     margin: 0 auto;
+     width:100px;
+     text-align: center;
+     height:20px;
+     padding: 10px;
+     border-radius: 3px;
+     text-decoration: none;
+     color: black;
+     }
+    .logout:hover{
+	 background-color:#fc0208;
+    }
+
+	.student_details{
+		display: inline-flex;
+		padding: 65px;
+		background-color: white;
+		width: 200px;
+		position: relative;
+		margin-top: 70px;
+		height:400px;
+		color: black;
+		font-family: sans-serif;
+		font-weight: bold;
+		
+		
+	}
+	.details{
+		background-color: #f61a03;
+		position: absolute;
+		top: 0px;
+		width:310px;
+		left: 0px;
+		text-align: center;
+		padding: 10px;
+	}
+	h1{
+		background-color: #c8c5c5;
+		margin-top: 0px;
+	
+	}
+	.s1{
+		display: flex;
+		flex-direction: row;
+		background-color: #f6f597;
+		width:auto;
+		padding: 16px;
+		position:relative;
+		text-align: center;
+	}
+	.home{
+		position: absolute;
+		width: 50px;
+        margin-left:10px;
+        margin-top: 5px;
+	}
+	.logo{
+		width: 45px;
+		margin-left:72px;
+		height:45px;
+		margin-top: 8px;
+	}
+	.f{
+		position: absolute;
+		left: 125px;
+		top: 15px;
+		font-size:25px;
+		color: white;
+		font-weight: bold;
+	}
+	.arrow{
+		width: 20px;
+		height: 20px;
+	}
+
+
+	.flex {
+		display: flex;
+		width: 100%;
+	}

@@ -1,0 +1,110 @@
+	body{
+		background-color: white;
+		margin: 0px;
+		border: 0px;
+	}
+	.title
+	{
+		background-color:#108e93; 
+		position:fixed;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		height:64px;
+		
+
+	}
+	
+	.home{
+		position: absolute;
+		width: 50px;
+        margin-left:10px;
+        margin-top: 5px;
+	}
+	.logo{
+		width: 45px;
+		margin-left:72px;
+		height:45px;
+		margin-top: 8px;
+	}
+	.f{
+		position: absolute;
+		left: 125px;
+		top: 15px;
+		font-size:25px;
+		color: white;
+		font-weight: bold;
+	}
+
+.listbody{
+	
+	width:100%;
+  border-radius: 10px;
+	margin: 0px auto;
+	
+  text-align: center;
+	margin-top: 50px;
+	
+  
+	
+}
+.menu
+{
+	text-align: center;
+	margin-top: 100px;
+	
+}
+.logout
+{
+background-color:aliceblue;
+position: absolute;
+right: 20px;
+top: 10px;
+margin: 0 auto;
+width:100px;
+text-align: center;
+height:20px;
+padding: 10px;
+border-radius: 3px;
+text-decoration: none;
+	
+}
+.logout:hover{
+
+	background-color:#fc0208;
+}
+.teacher{
+	width:50%;
+  text-align: center;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	opacity: .8;
+	margin: 3px;
+	font-size: 20px;
+	
+}
+.titlebar
+{
+	
+	width: 100%;
+	height: 30px;
+	margin-top: 64px;
+	background-color: seagreen;
+	color: black;
+	font-weight: 600;
+	padding: 10px;
+	font-size: 20px;
+}
+span{
+	margin-left: 5px;
+	
+}
+.listtitle{
+	text-align: center;
+	margin-left: 400px;
+	
+}
+a{
+	color: black;
+}
